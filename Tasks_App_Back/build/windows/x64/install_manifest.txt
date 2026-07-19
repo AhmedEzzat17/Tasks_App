@@ -1,0 +1,11 @@
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
+D:/01-real projects/flutter folder/tasks_app/build/windows/x64/runner/Debug/data/flutter_assets/shaders/stretch_effect.frag
