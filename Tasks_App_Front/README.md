@@ -199,11 +199,8 @@ This project provided practical experience with:
 ## Backend
 
 The mobile application is connected to a separate Laravel backend included in the same repository:
-
 `Tasks_App_Back`
 
 ## Author
 
 Ahmed Ezzat
-
-GitHub: https://github.com/AhmedEzzat17
